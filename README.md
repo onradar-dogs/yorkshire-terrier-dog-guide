@@ -1,2 +1,5 @@
-# yorkshire-terrier-dog-guide
-Dog breed guide for Yorkshire Terrier — feeding, health, training, care tips
+# Yorkshire Terrier Dog Guide
+
+Complete Yorkshire Terrier care guide.
+
+Visit: https://onradar-dogs.github.io/yorkshire-terrier-dog-guide/
